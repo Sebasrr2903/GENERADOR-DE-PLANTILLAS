@@ -1,4 +1,4 @@
-📄 Generador de Plantillas BURÓ
+#📄 Generador de Plantillas BURÓ
 
 
 📌 Descripción
@@ -25,20 +25,29 @@ Hora formateada
 📋 Copiado Automático
 Botón para copiar el texto generado al portapapeles.
 Limpieza automática del formulario después de copiar.
+
+
 📊 Clasificación de Plantillas
 
 Las plantillas están organizadas en:
 
 ✅ Procede
+
 ⛔ No procede
+
 🚫 Rechazos
+
 ⭐ Sistema de Favoritos
+
 Permite marcar plantillas como favoritas.
 Se guardan en el navegador usando LocalStorage.
 Filtro para mostrar solo favoritos.
+
 ⚡ Acceso Rápido
+
 Menú lateral para seleccionar plantillas rápidamente.
 Botones interactivos para cargar plantillas automáticamente.
+
 🧾 Formularios Dinámicos
 
 El sistema muestra u oculta campos según la plantilla seleccionada:
